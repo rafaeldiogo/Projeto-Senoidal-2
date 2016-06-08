@@ -1,1 +1,5 @@
-# Projeto-Senoidal-2
+Projeto de Paradigmas
+-----------------------
+
+Aluno: Rafael Diogo
+
